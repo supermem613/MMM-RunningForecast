@@ -2,6 +2,8 @@
 
 The `MMM-RunningForecast` is a MagicMirror² module that displays running forecasts from weather.com.
 
+![Running Forecast](image.png)
+
 ## Installation
 
 1. Navigate to your MagicMirror modules directory:
